@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<server_port>9999</server_port>
+	<workspace>workspace path for server, e.g. /tmp</workspace>
+</config>
